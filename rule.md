@@ -45,7 +45,11 @@
 {"id":"jph","action":"jph"},
 {"id":"直接关闭","action":"直接关闭"},
 {"id":"jpa","action":"jpa"},
-{"id":"container","action":"feedbackIcon"},{"id":"与我无关","action":"与我无关"},{"id":"不感兴趣","action":"不感兴趣"},{"id":"907,547,1010,650","action":"907,547,1010,650"}],"ltt_service":true}
+{"id":"container","action":"feedbackIcon"},
+{"id":"与我无关","action":"与我无关"},
+{"id":"不感兴趣","action":"不感兴趣"},
+{"id":"907,547,1010,650","action":"907,547,1010,650"}],
+"ltt_service":true}
 ```
 ---
 
